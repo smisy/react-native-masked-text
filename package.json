@@ -50,7 +50,8 @@
         "babel-preset-react-native": "4.0.0",
         "jest": "23.5.0",
         "react-test-renderer": "16.3.1",
-        "react-native-masked-text": "1.9.0"
+        "react-native-masked-text": "1.9.0",
+        "react-native-material-textfield": "0.16.1"
     },
     "jest": {
         "preset": "react-native"
